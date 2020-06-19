@@ -16,20 +16,18 @@
     * Item 3a
     * Item 3b
 
+#### Strike Through
 <del>jkfsljfskl</del>
 
 ``` py
 import os
-
-# Get all files recursively #
 
 for root, dirs, files in os.walk('/'):
     print(files)
 
 ```
 
-
-### Table
+#### Table
 
 First Header | Second Header        |    Third Header   |
 ------------ | -------------        | ----------        |
@@ -39,7 +37,7 @@ Content column 1 | Content column 2 | Content cell 3    |
 ### FAQs:
 **How do I see all critical problems?**
 
-> Click on _configuration_ -> _hosts_ -> _item_
+*Click* on _configuration_ -> _hosts_ -> _item_
 
 - [x] Items listed with no triggers
 - [ ] Triggers with no alerts
@@ -47,6 +45,7 @@ Content column 1 | Content column 2 | Content cell 3    |
 
 > Links below
 [GitHub](http://github.com)
+![Homer](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
 **formatting**, and <del>tags</del>
 supported 
