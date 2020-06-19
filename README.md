@@ -1,3 +1,5 @@
+![Docker](./img/docker_img.gif)
+
 # HEADING 1
 ## HEADING 2
 
@@ -45,7 +47,6 @@ Content column 1 | Content column 2 | Content cell 3    |
 
 > Links below
 [GitHub](http://github.com)
-![Homer](https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif)
 
 **formatting**, and <del>tags</del>
 supported 
