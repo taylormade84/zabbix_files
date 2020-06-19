@@ -8,6 +8,15 @@
 ###### HEADING 6
 
 ### LISTS
+- [ ] Start with what the reader *needs*
+
+- [ ] Write less 
+
+- [ ] Write the outline first 
+      > Questions that come up from the end-users
+      > *needs* will outline the document titles
+- [ ] 
+- [ ]
 
 ### Unordered 
 * Item 1
