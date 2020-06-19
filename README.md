@@ -2,23 +2,27 @@
 
 # HEADING 1
 ## HEADING 2
+### HEADING 3
+#### HEADING 4
+##### HEADING 5
+###### HEADING 6
 
 ### LISTS
 
-#### Unordered 
+### Unordered 
 * Item 1
 * Item 2
     * Item 2a
     * Item 2b
 
-#### Unordered 
+### Unordered 
 1. Item 1
 2. Item 2
 3. Item 3
     * Item 3a
     * Item 3b
 
-#### Strike Through
+### Strike Through
 <del>jkfsljfskl</del>
 
 ``` py
@@ -29,7 +33,7 @@ for root, dirs, files in os.walk('/'):
 
 ```
 
-#### Table
+### Table
 
 First Header | Second Header        |    Third Header   |
 ------------ | -------------        | ----------        |
