@@ -18,7 +18,8 @@
 
 ### Use instructive wording - Direct language not passive
 Example:
-| |
-------- | ----------------  |
+ 
+ **DO**  | **DONT** |
+-------  | ----------------  |
 **Do**   | If X happens do Y.|
 **Dont** | If X happens try to do this and check Y.|
