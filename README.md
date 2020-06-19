@@ -29,4 +29,11 @@ FAQs:
 > Click on _configuration_ -> _hosts_ -> _item_
 
 - [x] Items listed with no triggers
-- [] Triggers with no alerts
+- [ ] Triggers with no alerts
+- [x] @mentions, #refs, [links](),
+
+> Links below
+[GitHub](http://github.com)
+
+**formatting**, and <del>tags</del>
+supported 
