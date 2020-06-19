@@ -14,7 +14,7 @@
 
 - [ ] Write the outline first 
 > Questions that come up from the end-users
-> *needs* will outline the document titles
+* needs will outline the document titles
 
 - [ ] 
 - [ ]
